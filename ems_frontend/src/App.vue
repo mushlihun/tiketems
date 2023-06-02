@@ -55,7 +55,7 @@
     </div>
     <router-view />
     <div class="footer">
-      Copyright © 2022 https://github.com/ch-hassansaeed
+      Copyright © 2022 https://github.com/mushlihun
     </div>
   </div>
 </template>
