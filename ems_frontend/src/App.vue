@@ -55,7 +55,7 @@
     </div>
     <router-view />
     <div class="footer">
-      Copyright © 2022 https://github.com/mushlihun
+      Copyright © 2023 - <a href="https://github.com/mushlihun"> Mushlihun</a>
     </div>
   </div>
 </template>
